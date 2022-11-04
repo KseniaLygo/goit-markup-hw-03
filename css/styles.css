@@ -212,13 +212,13 @@ color: var(--bgcolor);
     background-color: var(--blueskin);
     color: var(--bgcolor);
     }
- .hero-head:focus {
+ .hero .hero-head:focus {
  box-shadow: 0 0 0 3px var(--blek);
  }
- .hero-head2:focus {
+ .hero .hero-head2:focus {
  box-shadow: 0 0 0 3px var(--blek);
  }
-
+ 
 .foot9 {
     display: flex;
     gap: 30px;
