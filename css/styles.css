@@ -213,10 +213,10 @@ color: var(--bgcolor);
     color: var(--bgcolor);
     }
  .hero .hero-head:focus {
- box-shadow: 0 0 0 3px var(--blek);
+ box-shadow: 0 0 0 3px var(--bkcolor);
  }
  .hero .hero-head2:focus {
- box-shadow: 0 0 0 3px var(--blek);
+ box-shadow: 0 0 0 3px var(--bkcolor);
  }
  
 .foot9 {
